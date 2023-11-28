@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hello&desc=SOMIN%27s%20Github%20&animation=fadeIn)
+
+
 <div align="center">
 
 ### Stack
