@@ -21,7 +21,6 @@
     <img src="https://img.shields.io/badge/GitLab-FC6D26?&logo=GitLab&logoColor=white">
     <img src="https://img.shields.io/badge/Notion-000000?&logo=Notion&logoColor=white">
     <img src="https://img.shields.io/badge/Postman-FF6C37?&logo=Postman&logoColor=white">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?&logo=Figma&logoColor=white">
     <img src="https://img.shields.io/badge/Mattermost-0058CC?&logo=Mattermost&logoColor=white">
 </p>
 
