@@ -10,12 +10,20 @@
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?&logo=springboot&logoColor=white">
     <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?&logo=springsecurity&logoColor=white">
     <img src="https://img.shields.io/badge/JWT-000000?&logo=jsonwebtokens&logoColor=white">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?&logo=mysql&logoColor=white">
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Docker-2496ED?&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/Jenkins-D24939?&logo=jenkins&logoColor=white">
     <img src="https://img.shields.io/badge/nginx-009639?&logo=nginx&logoColor=white">
+</p>
+<p align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/apachesuperset-20A6C9?&logo=apachesuperset&logoColor=white">
+    <img src="https://img.shields.io/badge/preset-00B992?logoColor=white" alt="preset" />
+</p>
+<p>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/postgresql-4169E1?&logo=postgresql&logoColor=white">
 </p>
 
 
