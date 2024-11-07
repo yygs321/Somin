@@ -18,7 +18,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/apachesuperset-20A6C9?&logo=apachesuperset&logoColor=white">
+<!--     <img src="https://img.shields.io/badge/apachesuperset-20A6C9?&logo=apachesuperset&logoColor=white"> -->
     <img src="https://img.shields.io/badge/preset-00B992?logoColor=white" alt="preset" />
 </p>
 <p>
