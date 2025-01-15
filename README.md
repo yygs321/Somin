@@ -21,7 +21,6 @@
 <p align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/Apache airflow-017CEE?&logo=apacheairflow&logoColor=white">
-    <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?&logo=apachespark&logoColor=white">
     <img src="https://img.shields.io/badge/amazon Redshift-8C4FFF?&logo=amazonredshift&logoColor=white">
     <img src="https://img.shields.io/badge/snowflake-29B5E8?&logo=snowflake&logoColor=white">
 </p>
