@@ -15,10 +15,14 @@
     <img src="https://img.shields.io/badge/Docker-2496ED?&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/Jenkins-D24939?&logo=jenkins&logoColor=white">
     <img src="https://img.shields.io/badge/nginx-009639?&logo=nginx&logoColor=white">
+    <img src="https://img.shields.io/badge/prometheus-FF4000?&logo=prometheus&logoColor=white">
+    <img src="https://img.shields.io/badge/grafana-FF8000?&logo=grafana&logoColor=white">
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?&logo=python&logoColor=white">
-<!--     <img src="https://img.shields.io/badge/apachesuperset-20A6C9?&logo=apachesuperset&logoColor=white"> -->
+    <img src="https://img.shields.io/badge/Apache airflow-017CEE?&logo=apacheairflow&logoColor=white">
+    <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?&logo=apachespark&logoColor=white">
+    <img src="https://img.shields.io/badge/amazon Redshift-8C4FFF?&logo=amazonredshift&logoColor=white">
     <img src="https://img.shields.io/badge/preset-00B992?logoColor=white" alt="preset" />
 </p>
 <p>
